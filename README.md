@@ -4,13 +4,13 @@ MaxMind's [GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/) Country, Ci
 
 ## Download
 
-GeoLite2-ASN: [ASN.mmdb](https://github.com/dnomd343/GeoLite2/raw/download/ASN.mmdb)
++ [ASN.mmdb](https://github.com/dnomd343/GeoLite2/raw/download/ASN.mmdb)
 
-GeoLite2-City: [City.mmdb](https://github.com/dnomd343/GeoLite2/raw/download/City.mmdb)
++ [City.mmdb](https://github.com/dnomd343/GeoLite2/raw/download/City.mmdb)
 
-GeoLite2-Country: [Country.mmdb](https://github.com/dnomd343/GeoLite2/raw/download/Country.mmdb)
++ [Country.mmdb](https://github.com/dnomd343/GeoLite2/raw/download/Country.mmdb)
 
-For Chinese user, you can download following urls:
+For Chinese users who cannot access github, you can download following urls:
 
 ```
 https://res.dnomd343.top/Share/GeoLite2/ASN.mmdb.xz
