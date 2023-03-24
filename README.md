@@ -12,11 +12,9 @@ MaxMind's [GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/) Country, Ci
 
 For Chinese users who cannot access github, you can download following urls:
 
-```
-https://res.dnomd343.top/Share/GeoLite2/ASN.mmdb.xz
-https://res.dnomd343.top/Share/GeoLite2/City.mmdb.xz
-https://res.dnomd343.top/Share/GeoLite2/Country.mmdb.xz
-```
++ `https://cdn.dnomd343.top/geolite2/ASN.mmdb.xz`
++ `https://cdn.dnomd343.top/geolite2/City.mmdb.xz`
++ `https://cdn.dnomd343.top/geolite2/Country.mmdb.xz`
 
 ## License
 
